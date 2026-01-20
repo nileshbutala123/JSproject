@@ -1,0 +1,36 @@
+h1 {
+  background-color: lightgray;
+  color: red;
+  padding: 10px;
+}
+.clsh1 {
+  border: 2px solid black;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+background-color:cadetblue 
+}
+#myh1 {
+  font-size: 36px;
+}
+.clsh2 {
+  color: navy;
+  margin: 20px;
+}
+.mycls0 {
+  background-color: lightyellow;
+  border: 1px solid orange;
+  margin: 5px;
+  padding: 5px;
+}
+.viewport {
+  width: device-width;
+  vertical-align: middle;
+ 
+}
+.mycls0 {
+  font-size: 18px;
+    color: darkgreen;
+       text-align: center;
+}
